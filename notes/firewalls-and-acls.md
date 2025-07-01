@@ -36,7 +36,8 @@ Allows any host to access port 80 on 192.168.1.10
 ### 📄 Sample ACL Rule:
 ```bash
 access-list 101 permit tcp any host 192.168.1.10 eq 80
-✅ Allows any host to access port 80 on 192.168.1.10
+```
+Allows any host to access port 80 on 192.168.1.10
 
 ## 🧠 Best Practices
 - Block by default, allow by exception
