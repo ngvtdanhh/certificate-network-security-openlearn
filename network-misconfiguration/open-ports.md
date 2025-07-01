@@ -24,3 +24,14 @@ Leaving unnecessary ports open — especially to the public internet — expands
 nmap -p- 192.168.1.100
 # Open ports found: 21 (FTP), 23 (Telnet), 3306 (MySQL)
 ```
+
+## ✅ Recommended Fixes
+- Close all non-essential ports
+
+- Use ufw or iptables to restrict external access
+
+- Use port knocking or VPNs for internal services
+
+## 📚 Related Tools
+
+nmap, netstat, ss, ufw, firewalld
