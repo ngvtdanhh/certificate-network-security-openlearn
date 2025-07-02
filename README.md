@@ -56,7 +56,7 @@ Real-world misconfiguration examples and how to fix them:
 
 ## 🎓 Certificate of Completion
 
-- 🧠 [`openlearn-network-security-certificate.pdf`](./cert/openlearn-network-security-certificate.pdf)
+- 🧠 [`OpenLearn Network security.pdf`](./cert/OpenLearn%20Network%20security.pdf)
 
 ---
 
