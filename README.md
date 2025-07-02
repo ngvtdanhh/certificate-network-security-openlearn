@@ -1,5 +1,12 @@
 # 🌐 Network Security – OpenLearn (The Open University)
 
+![Course](https://img.shields.io/badge/OpenLearn-Certified-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
+![Level](https://img.shields.io/badge/Level-Introductory-orange?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Network%20Security-critical?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Self--Study-lightgrey?style=flat-square)
+![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square)
+
 > 📚 This repository contains structured notes, demos, screenshots, and a certificate of completion for the **Network Security** course by [OpenLearn – The Open University](https://www.open.edu/openlearn).
 
 ---
