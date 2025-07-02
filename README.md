@@ -96,6 +96,6 @@ Email: ngvu.thdanh@gmail.com
 ## ⚖️ License
 
 This repository is licensed under the **GNU AGPL v3.0**.  
-See [`LICENSE`](./LICENSE) and [`DISCLAIMER.md`](./DISCLAIMER.md) for full details.
+See [`LICENSE`](./LICENSE) for full details.
 
 © 2025 ngvtdanhh. All rights reserved.
