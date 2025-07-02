@@ -24,7 +24,7 @@ Incorrect firewall configurations can allow unauthorized access or block legitim
 sudo iptables -A INPUT -j ACCEPT  # 👎 Allow everything!
 ```
 
-## Recommended Fixes
+## ✅ Recommended Fixes
 
 - Set default policy to DROP
 
@@ -36,6 +36,6 @@ sudo iptables -A INPUT -j ACCEPT  # 👎 Allow everything!
 
 ## 📚 Related Tools
 
-iptables, ufw, firewalld, nftables
+- iptables, ufw, firewalld, nftables
 
 
