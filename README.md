@@ -60,19 +60,22 @@ Real-world misconfiguration examples and how to fix them:
 
 ---
 
-## 📝 Personal Reflection
+## 📝 Course Review: Network Security - OpenLearn
 
 This OpenLearn course is a great foundation for anyone exploring network security. Despite being introductory, it covers essential concepts that are critical in real-world cybersecurity work.
 
-### ✅ Highlights
+### ✅ What I Liked
 
 - Accessible language and structured layout  
+
 - Clear explanations of protocols, threats, and encryption  
+
 - Good for security-minded beginners (Red Team or Blue Team)
 
-### 📌 Suggestions for Improvement
+### 📌 What Could Be Improved
 
 - Include more interactive labs or packet capture exercises  
+
 - Expand slightly on modern threats like phishing kits, botnets
 
 ---
@@ -87,15 +90,17 @@ This OpenLearn course is a great foundation for anyone exploring network securit
 
 ## ✍️ Author
 
-**Thành Danh** – Security Researcher & Red Team Enthusiast  
+**Thành Danh** – Pentester & Cybersecurity Research  
+
 GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)  
+
 Email: ngvu.thdanh@gmail.com
 
 ---
 
-## ⚖️ License
+## 📄 License
 
-This repository is licensed under the **GNU AGPL v3.0**.  
+This project is licensed under the terms of the **GNU AGPL v3.0**.  
 See [`LICENSE`](./LICENSE) for full details.
 
 © 2025 ngvtdanhh. All rights reserved.
